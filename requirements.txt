@@ -1,4 +1,4 @@
-onnxruntime
-numpy
-Pillow
-streamlit
+pip install onnxruntime
+pip install numpy
+pip install Pillow
+pip install streamlit
